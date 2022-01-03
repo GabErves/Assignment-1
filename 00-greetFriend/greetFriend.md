@@ -13,6 +13,7 @@ THEN: We output "Hello, Albert!"
 ```js
 function greetFriend(name) {
   // Insert code here;
+  document.write("Hello, Albert!");
 }
 
 greetFriend("Albert") -----> "Hello, Albert!";
@@ -29,6 +30,7 @@ THEN: We output "Hello, Brian!"
 ```js
 function greetFriend(name) {
   // Insert code here;
+  document.write("Hello, Brian!")
 }
 
 greetFriend("Brian") -----> "Hello, Brian!";
